@@ -22,10 +22,6 @@ Implementing dynamic button interactions and sprite handling.
 Future enhancements include adding animations, sound effects, and more story arcs.
 
 
-###  Attributions
-*If you used any code, ideas, images, or resources from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own. Check out [archive.org](https://archive.org/), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), or [Burst](https://burst.shopify.com/) for free, uncopyrighted images.*
-- Add here if applicable
-
 ---
 
 ## File Overview
